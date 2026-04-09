@@ -17,11 +17,3 @@ df.tail(5)
 
 df.describe
 
-"""Hi there,
-
-This is Just a Demo.
-
-If you want Full Project code with Project Report.
-
-Mail me now at vatshayan007@gmail.com
-"""
