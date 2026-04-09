@@ -115,9 +115,6 @@ flask
 
 ---
 
-## 📺 Demo Video
-
-▶️ https://youtu.be/SxEmvvdmdd8
 
 ## 📄 Base Research Paper
 
